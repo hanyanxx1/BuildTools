@@ -1,0 +1,8 @@
+{
+  "optimized": {
+    "vue": {
+      "file": "/Users/hanyanxx1/Documents/study/JavaScript/10_构建工具/zhufeng/22.vite-source/node_modules/.vite7/deps/vue.js",
+      "src": "/Users/hanyanxx1/Documents/study/JavaScript/10_构建工具/zhufeng/22.vite-source/node_modules/vue/dist/vue.runtime.esm-bundler.js"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+@import "./bg.css";
+body {
+  color: red;
+}
+#image-container {
+  border: 1px solid red;
+  width: 400px;
+  height: 103px;
+  background-image: url("./images/logo.png");
+}
+::placeholder{
+  color: red;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "21.vite-plugins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-syntax-import-meta": "^7.10.4",
+    "@babel/plugin-transform-typescript": "^7.19.3",
+    "@rollup/pluginutils": "^4.2.1",
+    "@vitejs/plugin-vue": "^3.1.0",
+    "@vitejs/plugin-vue-jsx": "^2.0.1",
+    "@vue/babel-plugin-jsx": "^1.1.1",
+    "@vue/compiler-sfc": "^3.2.40",
+    "fs-extra": "^10.1.0",
+    "hash-sum": "^2.0.0",
+    "morgan": "^1.10.0",
+    "vite": "^3.1.4",
+    "vue": "^3.2.40"
+  }
+}

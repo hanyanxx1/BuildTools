@@ -1,0 +1,1 @@
+{"version":3,"file":"main.1dc06.js","mappings":"mBAIAA,QAAQC,IAFE,EACA,E","sources":["webpack://1.basic/./src/index.js"],"sourcesContent":["import \"./layout.css\";\n\nconst a = 1;\nconst b = 2;\nconsole.log(a, b);\n"],"names":["console","log"],"sourceRoot":""}
